@@ -2,6 +2,8 @@ step by step
 1.réteg: projekt váza: könyvtárak létrehozása, csomagok letöltése, git+github+gitignore,
 .env
 
+2.réteg: adatbázis létrehozása (xampp) (sql-create.db.sql-nem szükséges, de infónak kellhet) config/index.js db/sequelize.js
+
 
 
 1. npm init vagy npm init -y
