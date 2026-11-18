@@ -1,4 +1,8 @@
 step by step
+1.réteg: projekt váza: könyvtárak létrehozása, csomagok letöltése, git+github+gitignore,
+.env
+
+
 
 1. npm init vagy npm init -y
 
