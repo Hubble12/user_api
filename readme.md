@@ -4,6 +4,10 @@ step by step
 
 2.réteg: adatbázis létrehozása (xampp) (sql-create.db.sql-nem szükséges, de infónak kellhet) config/index.js db/sequelize.js
 
+3.réteg: model (User model), db:sync, db:seed
+
+
+
 
 
 1. npm init vagy npm init -y
