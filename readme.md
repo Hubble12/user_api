@@ -6,6 +6,8 @@ step by step
 
 3.réteg: model (User model), db:sync, db:seed
 
+4.réteg: repository +        teszt user.repository.js + node test parancs
+
 
 
 
