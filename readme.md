@@ -8,6 +8,8 @@ step by step
 
 4.réteg: repository +        teszt user.repository.js + node test parancs
 
+5.réteg: service réteg: utils-> AppError, service->repo függvényhívások.
+
 
 
 
