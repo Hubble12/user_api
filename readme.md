@@ -10,6 +10,8 @@ step by step
 
 5.réteg: service réteg: utils-> AppError, service->repo függvényhívások.
 
+6.réteg: controller réteg: service hívások definiálása, json response
+
 
 
 
