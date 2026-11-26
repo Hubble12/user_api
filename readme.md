@@ -14,7 +14,9 @@ step by step
 
 7.réteg: routes, app.js, server.js
 
+8.réteg: hibakezelő mw
 
+9.réteg auth
 
 
 
