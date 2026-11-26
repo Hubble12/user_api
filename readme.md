@@ -12,6 +12,8 @@ step by step
 
 6.réteg: controller réteg: service hívások definiálása, json response
 
+7.réteg: routes, app.js, server.js
+
 
 
 
